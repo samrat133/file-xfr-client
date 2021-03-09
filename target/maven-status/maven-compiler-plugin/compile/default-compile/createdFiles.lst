@@ -1,0 +1,4 @@
+com/poc/filexfrclient/constant/AppConstants.class
+com/poc/filexfrclient/FileXfrClient.class
+com/poc/filexfrclient/helper/SocketChannelHelper.class
+com/poc/filexfrclient/filesender/Sender.class

@@ -1,0 +1,3 @@
+2021-03-08 22:30:17,485 INFO  com.poc.filexfrclient.FileXfrClient  – Establishing connection...
+2021-03-08 22:30:17,520 INFO  com.poc.filexfrclient.helper.SocketChannelHelper  – Connected... Initiating file transfer
+2021-03-08 22:30:22,327 INFO  com.poc.filexfrclient.filesender.Sender  – File sent successfully!
